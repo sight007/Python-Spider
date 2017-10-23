@@ -1,5 +1,5 @@
 # QSBK-Spider
-糗事百科爬虫https://www.qiushibaike.com/hot/
+糗事百科爬虫https://www.qiushibaike.com/hot/ \n
 (时间为：2017/10/23)
 python2.7 + urllib2 + 正则匹配
 
