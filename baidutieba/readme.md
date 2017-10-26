@@ -11,7 +11,7 @@ url：https://tieba.baidu.com/p/3138733512<br/>
 (1)外边运行，提示文字乱码<br/>
 (2)最好把文字图片放到文件夹<br/>
 
-![image]()
+![image]( Python-Spider/top50.png )
 
 
 
